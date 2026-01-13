@@ -1,2 +1,2 @@
-# Data-Analysis-Task-4-Prediction-Insurance-Claim-AmountP
+# Data-Analysis-Task-4-Prediction-Insurance-Claim-Amount
 PREDICTION INSURANCE CLAIM AMOUNT
